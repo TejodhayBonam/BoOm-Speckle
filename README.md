@@ -19,8 +19,7 @@ Instead of doing your schedules in Revit, you can use boom to create quantity ta
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/ocni-dtu/boom-speckle.git
-cd boom-speckle
+git clone https://github.com/TejodhayBonam/BoOm-Speckle.git
 npm install
 ```
 
